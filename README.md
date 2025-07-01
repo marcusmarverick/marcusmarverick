@@ -9,8 +9,7 @@ Colégio Santo Inácio - RJ.
 <div> 
   <a href="https://instagram.com/marcusmarverick" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcusviniciustecdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://mastodon.social/invite/79fNCMgD" target="_blank"><img alt="Mastodon" src="https://img.shields.io/mastodon/follow/:id"></a>
-  <a href="http://beacons.ai/marcusmarverick" target="_blank"><img alt="beacons" src="https://cdn.brandfetch.io/id9IJJnIpA/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B"></a> 
+  <a href="https://mastodon.social/invite/79fNCMgD" target="_blank"><img alt="Mastodon" src="https://img.shields.io/mastodon/follow/:id"></a> 
 </div>
 
 ### 🤖 Languages and Technologies
