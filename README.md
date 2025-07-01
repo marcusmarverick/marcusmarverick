@@ -10,7 +10,7 @@ Colégio Santo Inácio - RJ.
   <a href="https://www.linkedin.com/in/marcusviniciustecdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### 🤖 Languages and Technologies
+🤖 Languages and Technologies
 <img 
     align="left" 
     alt="HTML"
@@ -138,8 +138,7 @@ Colégio Santo Inácio - RJ.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
-<br>
+    
 <br>
 
 ### 📊 Estatísticas
