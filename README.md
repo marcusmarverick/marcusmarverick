@@ -11,7 +11,7 @@ Colégio Santo Inácio - RJ.
 </div>
 <br>
 
-### 🤖 Languages and Technologies
+### 🤖 Languages, Technologies and Skills
 
 <img 
     align="left" 
