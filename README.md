@@ -110,14 +110,6 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"        
 />
 <img
- align="center"
-    alt="Eclipse"
-    title="Eclipse" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"        
-/>
-<img
  align="center" 
     alt="Mozilla"
     title="Mozilla" 
@@ -141,6 +133,14 @@ Colégio Santo Inácio - RJ.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
   />
+  <img
+ align="center"
+    alt="Eclipse"
+    title="Eclipse" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"        
+/>
 <img
  align="center" 
     alt="Visual Studio"
