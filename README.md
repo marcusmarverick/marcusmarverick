@@ -177,7 +177,7 @@ Colégio Santo Inácio - RJ.
 <br>
 <br>
 
-### 📊 Estatísticas
+### 📊 My practices
 
 <p>
   <img 
