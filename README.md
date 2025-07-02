@@ -12,9 +12,9 @@ Colégio Santo Inácio - RJ.
 <br>
 
 ### 🤖 Languages, Technologies and Skills
-
+<div style="display: inline_block">
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -22,7 +22,7 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center"
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -30,7 +30,7 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    align="center"
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -38,7 +38,7 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
+    align="center"
     alt="CodePen" 
     title="CodePen"
     width="30px" 
@@ -46,7 +46,7 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" 
     />
 <img 
-    align="left" 
+    align="center" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -54,7 +54,7 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img
- align="left" 
+ align="center" 
     alt="react"
     title="react" 
     width="30px" 
@@ -62,7 +62,7 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"        
 />
 <img 
-    align="left" 
+    align="center" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -70,7 +70,7 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img
- align="left" 
+ align="center" 
     alt="SQL"
     title="SQL" 
     width="30px" 
@@ -78,7 +78,7 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"       
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -86,7 +86,7 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"           
 />  
  <img
- align="left" 
+ align="center" 
     alt="C#"
     title="C#" 
     width="30px" 
@@ -94,7 +94,7 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"        
 />
 <img
- align="left" 
+ align="center"
     alt="JAVA"
     title="JAVA" 
     width="30px" 
@@ -102,7 +102,7 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"        
 />
 <img
- align="left" 
+ align="center"
     alt="Eclipse"
     title="Eclipse" 
     width="30px" 
@@ -110,7 +110,7 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"        
 />
 <img
- align="left" 
+ align="center" 
     alt="Trello"
     title="Trello" 
     width="30px" 
@@ -118,7 +118,7 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
 />
 <img
- align="left" 
+ align="center" 
     alt="Visual Studio"
     title="Visual Studio" 
     width="30px" 
@@ -126,7 +126,7 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"        
 />
 <img
- align="left" 
+ align="center" 
     alt="Visual Code"
     title="Visual Code" 
     width="30px" 
@@ -134,7 +134,7 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
   />
   <img
- align="left" 
+ align="center" 
     alt="Git"
     title="Git" 
     width="30px" 
@@ -142,14 +142,14 @@ Colégio Santo Inácio - RJ.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img
- align="left" 
+ align="center"
     alt="Github"
     title="Github" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
-
+</div>
 <br>
 <br>
 
