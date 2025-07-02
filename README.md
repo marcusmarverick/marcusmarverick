@@ -77,6 +77,14 @@ Colégio Santo Inácio - RJ.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"       
 />
+<img
+ align="center" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
+/>
 <img 
     align="center" 
     alt="Python" 
@@ -111,12 +119,28 @@ Colégio Santo Inácio - RJ.
 />
 <img
  align="center" 
+    alt="Mozilla"
+    title="Mozilla" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg">
+/>
+<img
+ align="center" 
     alt="Trello"
     title="Trello" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
 />
+<img
+ align="center" 
+    alt="Canva"
+    title="Canva" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  />
 <img
  align="center" 
     alt="Visual Studio"
