@@ -84,7 +84,7 @@ Colégio Santo Inácio - RJ.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
-/>/>
+/>
 <img 
     align="center" 
     alt="Python" 
@@ -123,7 +123,7 @@ Colégio Santo Inácio - RJ.
     title="Mozilla" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg">
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg"
 />
 <img
  align="center" 
@@ -139,7 +139,7 @@ Colégio Santo Inácio - RJ.
     title="Canva" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
   />
 <img
  align="center" 
