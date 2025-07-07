@@ -11,7 +11,7 @@ Colégio Santo Inácio - RJ.
 </div>
 <br>
 
-### 🤖 Languages, Technologies and Skills
+### 🤖 Languages, Technologies and Skills:
 <div style="display: inline_block">
 <img 
     align="center" 
@@ -185,7 +185,7 @@ Colégio Santo Inácio - RJ.
 <br>
 <br>
 
-### 📊 My practices
+### 📊 My practices:
 
 <p>
   <img 
@@ -202,3 +202,6 @@ Colégio Santo Inácio - RJ.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusmarverick&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+### 😀 My Activities and Hobbys:
+🧘‍♂️🏊‍♂️⚽🏀🏐🏈🥋🎮📷📹🍕🍔🍟🍜🍣🍸🍹☕🍵🧉🥂🍑🚙✈⛴🗺🧭🏔🏕🏖🌊🌴🗿
