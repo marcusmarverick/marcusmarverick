@@ -75,7 +75,7 @@ Colégio Santo Inácio - RJ.
     title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"       
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"       
 />
 <img
  align="center" 
@@ -83,7 +83,15 @@ Colégio Santo Inácio - RJ.
     title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"       
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"       
+/>
+<img
+ align="center" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"       
 />
 <img 
     align="center" 
