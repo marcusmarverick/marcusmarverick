@@ -202,6 +202,3 @@ Colégio Santo Inácio - RJ.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusmarverick&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
-### 😀 My Activities and Hobbys:
-🧘‍♂️🏊‍♂️⚽🏀🏐🏈🥋🪁🎮📷📹📚📱💻🤖👾🍕🍔🍟🍜🍣🍸🍹☕🍵🧉🥂🍑🚙✈⛴🗺🧭🏔🏕🏖🌊🌴🗿🦅
