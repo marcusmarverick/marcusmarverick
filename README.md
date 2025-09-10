@@ -59,6 +59,14 @@ Colégio Santo Inácio - RJ.
     title="react" 
     width="30px" 
     style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"        
+/>
+<img
+ align="center" 
+    alt="jquerry"
+    title="jquerry" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"        
 />
 <img 
