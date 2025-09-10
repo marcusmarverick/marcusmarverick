@@ -181,6 +181,14 @@ Colégio Santo Inácio - RJ.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
+<img
+align="center"
+    alt="Gitkraken"
+    title="Gitkraken" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitkraken/gitkraken-original.svg"          
+/>
 </div>
 <br>
 <br>
