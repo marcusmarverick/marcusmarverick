@@ -1,8 +1,8 @@
 # 👋👨‍💻 Hello World!
 
 I'm Marcus Vinicius, I'm from Rio de Janeiro and I'm Student of Analityc and development system at the Unicarioca university.
-I have knowlegde in same program languages, in this moment I study Front-End and Database. I have graduation technical for
-Colégio Santo Inácio - RJ (High School). On future, I want a pos-graduation at datascience. I study languages and OOP (object-oriented programming).
+I have knowlegde in same program languages, in this moment I study Front-End, Database and OOP (object-oriented programming). 
+I have graduation technical for Colégio Santo Inácio - RJ (High School). On future, I hope study data science at my posgraduate.
 
 🦅 Beschützen, hoffen, vertrauen und durchhalten. 🇧🇷 🇦🇷 🇺🇾 🇺🇸 🇦🇹 🇦🇸 🇭🇰 🇲🇴 🇯🇵 🇰🇷
 <div> 
