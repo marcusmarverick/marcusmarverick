@@ -53,7 +53,7 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
     title="react" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"        
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"        
 />
 
 <img 
