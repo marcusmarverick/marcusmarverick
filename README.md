@@ -11,7 +11,8 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
 </div>
 <br>
 
-### 🤖 Languages, Technologies and Skills:
+### 🤖 Languages, Technologies and Frameworks:
+
 <div style="display: inline_block">
 <img 
     align="center" 
@@ -37,14 +38,7 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="center"
-    alt="CodePen" 
-    title="CodePen"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" 
-    />
+
 <img 
     align="center" 
     alt="Bootstrap"
@@ -61,14 +55,7 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"        
 />
-<img
- align="center" 
-    alt="jquerry"
-    title="jquerry" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"        
-/>
+
 <img 
     align="center" 
     alt="PHP" 
@@ -149,14 +136,7 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
   />
-  <img
- align="center"
-    alt="Eclipse"
-    title="Eclipse" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"        
-/>
+  
 <img
  align="center" 
     alt="Visual Studio"
