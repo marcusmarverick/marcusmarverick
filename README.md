@@ -25,7 +25,6 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
 <img align="center"  alt="JAVA" height="30" title="JAVA" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> 
 </div>
 <br>
-<br>
 
 ### 🗃️ DataBase:
 
@@ -34,8 +33,6 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
 <img align="center" alt="MySQL" height="30" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <img align="center" alt="PostgreSQL" height="30" title="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 </div>
-
-<br>
 <br>
 
 ### 🛠️ Tools:
