@@ -41,8 +41,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
  align="center" 
     alt="MySQL"
     title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="30px"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"       
 />
 <img
