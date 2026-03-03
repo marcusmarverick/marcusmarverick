@@ -14,29 +14,15 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
 ### 🤖 Languages, Technologies and Frameworks:
 
 <div style="display: inline_block">
-<img align="center" alt="HTML" height="30" title="HTML" width="40px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/> <img align="center" alt="CSS" title="CSS" height="30" width="40px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/> <img align="center" alt="JavaScript" height="30" title="JavaScript" width="40px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/> <img align="center" alt="react" height="30" title="react" width="40px";
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"       
-/> <img align="center" alt="Bootstrap" height="30" title="Bootstrap" width="40px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="center" alt="PHP" height="30" title="PHP" width="40px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+<img align="center" alt="HTML" height="30" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> 
+<img align="center" alt="CSS" title="CSS" height="30" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> 
+<img align="center" alt="JavaScript" height="30" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
+<img align="center" alt="react" height="30" title="react" width="40px"; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> 
+<img align="center" alt="Bootstrap" height="30" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+<img align="center" alt="PHP" height="30" title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 <br>
 
-<img
- align="center" 
-    alt="SQL"
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"       
-/>
+<img align="center" alt="SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
 <img
  align="center" 
     alt="MySQL"
