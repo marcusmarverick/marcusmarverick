@@ -115,6 +115,7 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"        
 />
 <br>
+<br>
 <img
  align="center" 
     alt="Mozilla"
