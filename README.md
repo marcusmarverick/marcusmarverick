@@ -14,20 +14,10 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
 ### 🤖 Languages, Technologies and Frameworks:
 
 <div style="display: inline_block">
-<img 
-    align="center" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+<img align="center" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img 
-    align="center"
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
+<img align="center" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
