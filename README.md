@@ -26,22 +26,26 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
 </div>
 <br>
 <br>
+
 ### 🗃️ DataBase:
+
 <div style="display: inline_block">
 <img align="center" alt="SQL" height="30" title="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
 <img align="center" alt="MySQL" height="30" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <img align="center" alt="PostgreSQL" height="30" title="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 </div>
+
 <br>
 <br>
+
 ### 🛠️ Tools:
+
 <div style="display: inline_block">
 <img align="center" alt="Mozilla" height="30" title="Mozilla" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg"/>
 <img align="center" alt="Trello" height="30" title="Trello" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"/>
 <img align="center" alt="Canva" height="30" title="Canva" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>  
-<img align="center" alt="Visual Studio" height="40" title="Visual Studio" width="40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
 <img align="center" alt="Visual Code" height="30" title="Visual Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-<img align="center" alt="Git" height="30" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="center" alt="Git" height="30" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="center" alt="Github" height="30" title="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 <img align="center" alt="Gitkraken" height="30" title="Gitkraken" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitkraken/gitkraken-original.svg"/>
 </div>
