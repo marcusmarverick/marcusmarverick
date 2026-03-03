@@ -21,9 +21,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 />
 <img align="center" alt="JavaScript" height="30" title="JavaScript" width="40px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img align="center" alt="react" height="30" title="react" width="40px" style="padding-right: 10px;" 
+/> <img align="center" alt="react" height="30" title="react" width="40px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"        
 />
 <img align="center" alt="Bootstrap" height="30" title="Bootstrap" width="40px" style="padding-right: 10px;" 
