@@ -17,7 +17,7 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
 <img align="center" alt="PHP" height="30" title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 <img align="center" alt="Python" height="30" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>  
 <img align="center" alt="C#" height="30" title="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-<img align="center"  alt="JAVA" height="30" title="JAVA" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> 
+<img align="center" alt="JAVA" height="30" title="JAVA" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> 
 </div>
 <br>
 
