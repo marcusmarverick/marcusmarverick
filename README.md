@@ -5,10 +5,7 @@ I have knowlegde in somethins program languages, in this moment I study Front-En
 I have graduation technical for Colégio Santo Inácio - RJ (High School). On future, I hope study data science at my posgraduate.
 
 🦅 Beschützen, hoffen, vertrauen und durchhalten. 🇧🇷 🇦🇷 🇺🇾 🇺🇸 🇦🇹 🇦🇸 🇭🇰 🇲🇴 🇯🇵 🇰🇷
-<div> 
-  <a href="https://instagram.com/marcusmarverick" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcusviniciustecdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
 <br>
 
 ### 🤖 Languages, Technologies and Frameworks:
