@@ -64,6 +64,7 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+<br>
 <img
  align="center" 
     alt="SQL"
@@ -88,6 +89,7 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"       
 />
+<br>
 <img 
     align="center" 
     alt="Python" 
@@ -112,6 +114,7 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"        
 />
+<br>
 <img
  align="center" 
     alt="Mozilla"
@@ -178,5 +181,4 @@ align="center"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitkraken/gitkraken-original.svg"          
 />
 </div>
-<br>
-<br>
+
