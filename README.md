@@ -24,7 +24,8 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
 <img align="center" alt="JAVA" height="30" title="JAVA" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="center" alt="R" height="30" title="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 <img align="center" alt="Numpy" height="30" title="Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-<img align="center" alt="Pandas" height="30" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />          
+<img align="center" alt="Pandas" height="30" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<img align="center" alt="matplotlib" height="30" title="matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />   
 </div>
 <br>
 
@@ -40,13 +41,16 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
 ### 🛠️ Tools:
 
 <div style="display: inline_block">
+<img align="center" alt="Win11" height="30" title="Win11" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 <img align="center" alt="Mozilla" height="30" title="Mozilla" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg"/>
 <img align="center" alt="Trello" height="30" title="Trello" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"/>
+<img align="center" alt="Notion" height="30" title="Notion" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />       
 <img align="center" alt="Canva" height="30" title="Canva" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>  
 <img align="center" alt="Visual Code" height="30" title="Visual Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img align="center" alt="Git" height="30" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="center" alt="Github" height="30" title="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 <img align="center" alt="Gitkraken" height="30" title="Gitkraken" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitkraken/gitkraken-original.svg"/>
-<img align="center" alt="StackOverflow" height="30" title="StackOverflow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg"/>            
+<img align="center" alt="StackOverflow" height="30" title="StackOverflow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg"/>
+<img align="center" alt="linkedin" height="30" title="linkedin" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>         
 </div>
           
