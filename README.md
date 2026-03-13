@@ -12,10 +12,9 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
 <img align="center" alt="HTML" height="30" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> 
 <img align="center" alt="CSS" title="CSS" height="30" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> 
 <img align="center" alt="JavaScript" height="30" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
-<img align="center" alt="react" height="30" title="react" width="40px"; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> 
-<img align="center" alt="Bootstrap" height="30" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-<img align="center" alt="React" height="30" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />          
+<img align="center" alt="react" height="30" title="react" width="40px"; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 <img align="center" alt="ReactNative" height="30" title="ReactNAtive" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"/>
+<img align="center" alt="Bootstrap" height="30" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>          
 <img align="center" alt="NPM" height="30" title="NPM" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg"/>   
 <img align="center" alt="PHP" height="30" title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 <img align="center" alt="NodeJS" height="30" title="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />  
