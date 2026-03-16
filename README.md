@@ -6,9 +6,10 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
 
 🐺🦅🦈 Beschützen, hoffen, vertrauen und durchhalten. 🇧🇷 🇦🇷 🇺🇾 🇺🇸 🇦🇹 🇦🇸 🇭🇰 🇲🇴 🇯🇵 🇰🇷
 
-                                                  ### 🤖 Languages, Technologies and Frameworks:
+                                                  
 
 <div style="display: inline_block" align="center" >
+### 🤖 Languages, Technologies and Frameworks:
 <img align="center" alt="HTML" height="30" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> 
 <img align="center" alt="CSS" title="CSS" height="30" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> 
 <img align="center" alt="JavaScript" height="30" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
