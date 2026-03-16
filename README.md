@@ -5,11 +5,10 @@ I have knowlegde in somethins program languages, in this moment I study Front-En
 I have graduation technical for Colégio Santo Inácio - RJ (High School). On future, I hope study data science at my posgraduate.
 
 🐺🦅🦈 Beschützen, hoffen, vertrauen und durchhalten. 🇧🇷 🇦🇷 🇺🇾 🇺🇸 🇦🇹 🇦🇸 🇭🇰 🇲🇴 🇯🇵 🇰🇷
-
-                                                  
+    
+### 🤖 Languages, Technologies and Frameworks:
 
 <div style="display: inline_block" align="center" >
-### 🤖 Languages, Technologies and Frameworks:
 <img align="center" alt="HTML" height="30" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> 
 <img align="center" alt="CSS" title="CSS" height="30" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> 
 <img align="center" alt="JavaScript" height="30" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
@@ -31,7 +30,7 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
 
 ### 🗃️ DataBase:
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
 <img align="center" alt="SQL" height="30" title="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
 <img align="center" alt="MySQL" height="30" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <img align="center" alt="PostgreSQL" height="30" title="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
@@ -40,7 +39,7 @@ I have graduation technical for Colégio Santo Inácio - RJ (High School). On fu
 
 ### 🛠️ Tools:
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
 <img align="center" alt="Win11" height="30" title="Win11" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 <img align="center" alt="Mozilla" height="30" title="Mozilla" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg"/>
 <img align="center" alt="Trello" height="30" title="Trello" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"/>
